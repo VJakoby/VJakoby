@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hello there👋
+The name is Jakob with the location being in Sweden.
 
+Interested in cybersecurity, Linux, and building tools that solve my own problems — others might find them useful too.
+
+### What you'll find here ⚡
+Self-hosted tools · Security automation · Linux utilities (scripts and configs) · The occasional side project that went further than expected 😄
 <!--
 **VJakoby/VJakoby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
