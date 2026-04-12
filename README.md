@@ -4,7 +4,7 @@ The name is VJakoby, and lives in Sweden.
 Interested mainly in cybersecurity, linux, and building tools that solve my own problems, that others might find useful too.
 
 ### What you'll find here ⚡
-Self-hosted tools · Security automation · Linux utilities (scripts and configs) · The occasional side project that went further than expected 😄
+Self-hosted tools · Security automation · Linux utilities (scripts and configs) · Occasional side projects that went further than expected, kind off  😄
 <!--
 **VJakoby/VJakoby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
