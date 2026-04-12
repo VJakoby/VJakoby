@@ -1,5 +1,5 @@
 ## Hello there👋
-The name is Jakob with the location being in Sweden.
+The name is VJakoby, and lives in Sweden.
 
 Interested in cybersecurity, Linux, and building tools that solve my own problems — others might find them useful too.
 
