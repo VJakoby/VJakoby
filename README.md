@@ -1,7 +1,7 @@
 ## Hello there👋
 The name is VJakoby, and lives in Sweden.
 
-Interested in cybersecurity, Linux, and building tools that solve my own problems — others might find them useful too.
+Interested mainly in cybersecurity, linux, and building tools that solve my own problems, that others might find useful too.
 
 ### What you'll find here ⚡
 Self-hosted tools · Security automation · Linux utilities (scripts and configs) · The occasional side project that went further than expected 😄
