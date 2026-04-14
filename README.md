@@ -1,10 +1,12 @@
 ## Hello there👋
-The name is VJakoby, and lives in Sweden.
+The name is Jakob, and i live in Sweden, and lives in 🇸🇪 Sweden.
 
-Interested mainly in cybersecurity, linux, and building tools that solve my own problems, that others might find useful too.
+Interested mostly in cybersecurity, linux but also all kind of technical stuff. Like building tools that solves small problems i have, use them if you want.
 
 ### What you'll find here ⚡
-Self-hosted tools · Security automation · Linux utilities (scripts and configs) · Occasional side projects that went further than expected, kind off  😄
+* Self-hosted tools
+* Linux utilities (scripts and configs)
+* Side-projects that spun from some idea and went further than expected
 <!--
 **VJakoby/VJakoby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
