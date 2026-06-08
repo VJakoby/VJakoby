@@ -1,6 +1,5 @@
 ## Hello there👋
-The name is Jakob, and i live in Sweden, and lives in 🇸🇪 Sweden.
-
+The name is Jakob.
 Interested mostly in cybersecurity, linux but also all kind of technical stuff. Like building tools that solves small problems i have, use them if you want.
 
 ### What you'll find here ⚡
